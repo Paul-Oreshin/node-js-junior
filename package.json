@@ -1,0 +1,19 @@
+{
+  "name": "js-junior",
+  "version": "1.0.0",
+  "description": "node js package learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "Pavel Oreshin <paul.oreshin@yandex.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
